@@ -32,12 +32,9 @@
 				<td style="color:white"><a href="https://github.com/mankelly/VerilogProjects/tree/master/16-bit%20Pipelined%20CPU"; style="color:LightGrey">16-bit Pipelined CPU</a></td>
 			</tr>
 			<tr>
-				<td></td>
-				<td style="color:white"><a href="https://github.com/mankelly/VerilogProjects/tree/master/Nexys%20Tetris"; style="color:LightGrey">Nexys Tetris</a></td>
-			</tr>
-			<tr>
-				<td></td>
-				<td><iframe width="560" height="315" src="https://www.youtube.com/embed/3EtIybUcsiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+				<td style="color:white"><a href="https://github.com/mankelly/VerilogProjects/tree/master/Nexys%20Tetris"; style="color:LightGrey">Nexys Tetris<br></a>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/3EtIybUcsiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</td>
 			</tr>
 		</table>
 		
